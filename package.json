@@ -1,0 +1,10 @@
+{
+  "name": "testek6",
+  "version": "1.0.0",
+  "description": "Test K6",
+    "scripts": {
+    "load:test": "k6 run tests/test.js"
+  },
+  "author": "luizemarin",
+  "license": "ISC"
+}
