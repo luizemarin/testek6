@@ -1,6 +1,6 @@
 # Repositorio de teste de carga/stress - K6
 
-Este repositório contém um script k6 desenvolvido para a realização de testes de carga e estresse. O objetivo é avaliar o desempenho, escalabilidade e estabilidade do sistema sob diversas condições de carga simulada, identificando possíveis gargalos e garantindo uma experiência de usuário robusta.
+Este repositório contém um script k6 desenvolvido para a realização de testes de carga e estresse (Usado a api publica [httpbin](https://httpbin.org/get)). O objetivo é avaliar o desempenho, escalabilidade e estabilidade do sistema sob diversas condições de carga simulada, identificando possíveis gargalos e garantindo uma experiência de usuário robusta.
 
 Este repositório contém teste de carga/stress utilizando [K6](https://k6.io/) com JavaScript
 
