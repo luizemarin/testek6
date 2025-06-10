@@ -34,7 +34,7 @@ Obs.: Esse script está configurado no arquivo package.json e irá rodar os test
 Uma estrutura simples para armazenar o teste realizado
 
 Exemplo:
-
+```sh
 .
 ├── tests/
 │   ├── test.js
@@ -43,7 +43,7 @@ Exemplo:
 ├── .gitignore             # Arquivo para ignorar arquivos e diretórios específicos pelo Git
 ├── README.md              # Este arquivo
 └── package.json           # (Opcional) Se você usa npm para dependências ou scripts
-
+```
 
 ### Relatórios e Análise
 Como os usuários podem visualizar e interpretar os resultados dos testes?
